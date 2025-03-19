@@ -1,0 +1,17 @@
+package com.mycompany.tasnim_task5;
+import java.util.Scanner;
+
+public class temperature {
+
+     public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+      System.out.print("Input a degree in Fahrenheit : ");
+        double fahren = input.nextDouble();
+        
+        double cel = (fahren-32)*5/9;
+
+        System.out.println(fahren + " degree Fahrenheit is equal to " + cel + " in Celsius");
+        
+    }
+}

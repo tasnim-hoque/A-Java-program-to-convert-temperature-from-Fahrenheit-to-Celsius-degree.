@@ -1,1 +1,0 @@
-# A-Java-program-to-convert-temperature-from-Fahrenheit-to-Celsius-degree.
